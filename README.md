@@ -4,6 +4,6 @@
 
 **List of Projects
 
-Movie Recommender System - [Hadoop] (https://github.com/Frank-W-Yu/Big-Data-Projects/tree/master/RecommenderSystem/Hadoop)
+Movie Recommender System - [Hadoop](https://github.com/Frank-W-Yu/Big-Data-Projects/tree/master/RecommenderSystem/Hadoop)
 
 Page Rank - [Hadoop](https://github.com/Frank-W-Yu/Big-Data-Projects/tree/master/PageRank/Hadoop)
